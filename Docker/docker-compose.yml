@@ -1,0 +1,13 @@
+web:
+  build: .
+  links:
+  - db
+  ports:
+  - "8000:8000"
+db:
+  image: mysql
+base:
+  image: 000a
+  json:
+  - "Node.json"
+  
