@@ -1,0 +1,6 @@
+{
+  "name": "--engiecore",
+  "tagline": "",
+  "body": "# --EngieCore\r\necco la anteprima di index.html\r\nla anteprima è a pagina:http://minions.altervista.org/prova?doing_wp_cron=1464277403.2399449348449707031250\r\nper avviare le fondamenta web basta scrivere nel terminale:\r\n`firefox\r\ncd /home/download/\r\ndocker build .\r\ndocker run 000a`",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
