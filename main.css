@@ -1,0 +1,153 @@
+.enorme {
+    font-size: 66px !important;
+}
+
+form.btn-group + form.btn-group {
+    margin-left: -5px;
+}
+
+form.btn-group + div.btn-group {
+    margin-left: -5px;
+}
+
+div.btn-group + form.btn-group {
+    margin-left: -5px;
+}
+
+body, body.modal {
+    margin-right: 0 !important;
+    padding-top: 50px;
+}
+
+body.modal {
+    overflow-y: hidden;
+}
+
+.nascosto {
+    display: none;
+}
+
+.flag {
+    margin: 10px 0 0 0 !important;
+}
+
+.hidden-form {
+    margin-bottom: 0px !important;
+}
+
+.first-button {
+    margin-left: 15px;
+}
+
+.hidden-border {
+    border-style: hidden !important;
+}
+
+.hidden-left {
+    border-left-style: hidden !important;
+}
+.hidden-right {
+    border-right-style: hidden !important;
+}
+.hidden-top {
+    border-top-style: hidden !important;
+}
+.hidden-bottom {
+    border-bottom-style: hidden !important;
+}
+.centered {
+    text-align: center;
+}
+.btl {
+    border-top-left-radius: 10px
+}
+.btr {
+    border-top-right-radius: 10px
+}
+.bbl {
+    border-bottom-left-radius: 10px
+}
+.bbr {
+    border-bottom-right-radius: 10px
+}
+
+.move-down-10px {
+    padding-top: 7px;
+}
+
+.result {
+background-color: #e9f6f5 !important;
+}
+
+.table-result {
+    color: #4c4c4c !important;
+}
+
+.panel-body {
+    color: #4c4c4c !important;
+}
+
+.table-result-hover > tbody > tr:hover > td,
+.table-result-hover > tbody > tr:hover > th {
+  background-color: #d3eeec;
+}
+
+.table-result head > tr > th,
+.table-result tbody > tr > th,
+.table-result tfoot > tr > th,
+.table-result thead > tr > td,
+.table-result tbody > tr > td,
+.table-result tfoot > tr > td {
+  border-top: 0px !important;
+}
+
+.minibox {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.reduce-padding {
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+}
+
+.anchor {
+    display: block; 
+    position: relative; 
+    top: -70px; 
+    visibility: hidden;
+}
+
+.divBox a {
+    width: 100%;
+    height: 100%;
+    display: block;
+    color: #4c4c4c !important;
+    text-decoration: none !important;
+}
+
+.quality-ts {
+    position: relative !important; 
+    top: 5px !important; 
+}
+
+.input-file-first-row {
+    margin-top: 20px !important;
+}
+
+.input-url-first-row {
+    margin-top: 30px !important;
+}
+
+.date {
+    float: right !important;
+}
+
+.dropdown-toggle {
+    padding-top: 14px !important;
+    padding-bottom: 14px !important;
+}
+
+.up-10px {
+    top: 0px !important;
+}
